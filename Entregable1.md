@@ -4,7 +4,7 @@ Dentro de las principales actividades a realizar en este primer entregable se en
 
 Busqueda de plataformas SIG que se usen a nivel local para la gestión de servicios urbanos.
 
-**Como ejemplo** te puedes basar en el [https://data.cityofchicago.org/](Portal de Chicago.)
+**Como ejemplo** te puedes basar en el [Portal Chicago](https://data.cityofchicago.org/)
 
 Observa sobre todo el tipo de tecnología que usan para hacer la georreferencia de información, 
 identificación del sistema, si son de acceso libre y cómo podrían replicarse esos ejercicios en web. 
@@ -37,7 +37,7 @@ o servicio de limpia publica.
 **Página:**[Datos abiertos Veracruz](http://datos.veracruzmunicipio.gob.mx)
 
 
-**Nombre de la plataforma:**CIC
+**Nombre de la plataforma:** CIC
 
 Es una red de confianza 100% ciudadana que enlaza e integra al ciudadano y las autoridades por medio de espacios
 claros, confiables y auténticos de participación en temas que impactan a la sociedad, buscando despertar las conciencias
@@ -89,7 +89,7 @@ colonia, alcaldía, coordenadas, mes y año. Esta información se actualiza mens
 **Página:**[Carpeta de oinvestigación de la CDMX](https://datos.cdmx.gob.mx/api/datasets/1.0/carpetas-de-investigacion-pgj-de-la-ciudad-de-mexico/snapshots/1582326177/)
 
 
-**Nombre de la plataforma:**Illustreets
+**Nombre de la plataforma:** Illustreets
 
 Este es un portal el cual recauda información geográfica y estadística sobre los datos abiertos de diferentes países, cubriendo todo, desde los precios de las casas, hasta la tasa de criminalidad, el rendimiento escolar, y el transporte.
 
@@ -134,7 +134,7 @@ rutas optimas. Puedes crear una cuenta y establecer rutas desde diferentes punto
 
 
 
-**Nombre del proyecto:**Ciudadano Inteligente
+**Nombre del proyecto:** Ciudadano Inteligente
 
 La Fundación Ciudadano Inteligente trabaja desde Chile para reducir las asimetrías de información. Su lema es
 "Trabajamos para trasladar poder desde los pocos hacia los muchos". Ciudadano Inteligente se especializa en el 
@@ -148,7 +148,7 @@ desarrollo de aplicaciones cívicas web.
 tiene como objetivo vigilar el cumplimiento de la Ley de Acceso a la Información Pública para el Estado y los municipios 
 de Guanajuato y garantizar a la sociedad guanajuatense su derecho a saber.
 
-**Página:**[IACIP] (https://iacip-gto.org.mx/wn/)
+**Página:**[IACIP](https://iacip-gto.org.mx/wn/)
 
 
 
