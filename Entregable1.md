@@ -34,7 +34,7 @@ participe activamente en la toma de decisiones y creación de soluciones, esto a
 invitan a la población a generar propuestas tecnológicas para problemas que aquejan a la localidad, como accidentes de transito
 o servicio de limpia publica.
 
-**Página:**[http://datos.veracruzmunicipio.gob.mx](Datos abiertos Veracruz)
+**Página:**[Datos abiertos Veracruz](http://datos.veracruzmunicipio.gob.mx)
 
 
 **Nombre de la plataforma:**CIC
@@ -45,7 +45,7 @@ y activar a los ciudadanos a trabajar en suma para mejorar nuestra sociedad.
 Estos espacios se fundamentan en el aprovechamiento de nuevas tecnologías como las redes sociales, el uso de datos abiertos
 y su plataforma Civix.
 
-**Página:** [https://play.google.com/store/apps/details?id=cic.com.cicty](CIC)
+**Página:** [CIC](https://play.google.com/store/apps/details?id=cic.com.cicty)
 
 
 **Nombre de la plataforma:** Portal de Datos Abiertos del Estado de Puebla
@@ -54,7 +54,7 @@ En este proyecto se comparten todos los datos referentes a finanzas, educación 
 buscado hacer llegar la información a cualquiera que la quiera consultar y saber que oportunidades de trabajo
 que se encuentran, servicios, etc.
 
-**Página:** [http://datos.puebla.gob.mx/](Datos abiertos Puebla.)
+**Página:** [Datos abiertos Puebla](http://datos.puebla.gob.mx/)
 
 **Nombre de la plataforma:** Portal de datos abiertos del Sistema de Información Cultural (SIC MÉXICO)
 
@@ -66,7 +66,7 @@ compartidos por los usuarios de la plataforma, el SIC pone a la disposición la 
 diversos formatos abiertos, para su procesamiento informático. Temas como: espacios culturares, patrimonios,
 ferias, festivales y festividades culturales, cultura popular indígena, instituciones culturales, todo a nivel nacional.
 
-**Página:**[https://sic.cultura.gob.mx/datos.php](SIC MÉXICO)
+**Página:**[SIC MÉXICO](https://sic.cultura.gob.mx/datos.php)
 
 
 
@@ -77,7 +77,7 @@ cualquier tipo de violencia en el país. Esto incluye homicidos, suicidios y acc
 y otros delitos que atentan contra la vida. Dependiendo del dato la fuente de los datos son los Registros de Mortalidad de 
 INEGI o el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 
-**Página:**[https://exploralaviolencia.org/](Explora la violencia)
+**Página:**[Explora la violencia](https://exploralaviolencia.org/)
 
 
 **Nombre de la plataforma:** Carpetas de investigación FGJ de la Ciudad de México.
@@ -86,14 +86,14 @@ Las variables que contiene esta base son Carpetas de investigación de delitos a
 Agencia, Unidad de Investigación, fecha de apertura de la carpeta de investigación, delito, categoría de delito, calle, 
 colonia, alcaldía, coordenadas, mes y año. Esta información se actualiza mensualmente.
 
-**Página:**[https://datos.cdmx.gob.mx/api/datasets/1.0/carpetas-de-investigacion-pgj-de-la-ciudad-de-mexico/snapshots/1582326177/](Carpetas de investigacion de la CDMX)
+**Página:**[Carpeta de oinvestigación de la CDMX](https://datos.cdmx.gob.mx/api/datasets/1.0/carpetas-de-investigacion-pgj-de-la-ciudad-de-mexico/snapshots/1582326177/)
 
 
 **Nombre de la plataforma:**Illustreets
 
 Este es un portal el cual recauda información geográfica y estadística sobre los datos abiertos de diferentes países, cubriendo todo, desde los precios de las casas, hasta la tasa de criminalidad, el rendimiento escolar, y el transporte.
 
-**Página:**[https://illustreets.com/about-us/](Ilustrasheets)
+**Página:**[Ilustrasheets](https://illustreets.com/about-us/)
 
 
 **Nombre de la plataforma:** OpenGrid
@@ -103,7 +103,7 @@ para permitir a los habitantes de la ciudad de Chicago usar un mapa interactivo 
 La aplicación ofrece información histórica o en tiempo real de datos basados en eventos como llamadas al 311,
 tweets y delitos, con base en la hora y la localicación.
 
-**Página:** [http://docs.opengrid.io/en/latest/](OpenGrid)
+**Página:** [OpenGrids](http://docs.opengrid.io/en/latest/)
 
 
 **Nombre de la plataforma:** Datos Abiertos para Combatir la Corrupción del Ayuntamiento de Puebla
@@ -112,7 +112,7 @@ Dentro del portal de Datos Abiertos del ayuntamiento de Puebla, Puebla, se gener
 espacio para la publicación de datos relacionados con compras, quejas contra servidores públicos y demás información
 que podría ayudar a combatir la corrupción en el municipio.
 
-**Página:**[http://datos.pueblacapital.gob.mx/datos-abiertos-para-combatir-la-corrupci%C3%B3n](Datos anitcorrupción Puebla)
+**Página:**[Datos anticorrupción Puebla](http://datos.pueblacapital.gob.mx/datos-abiertos-para-combatir-la-corrupci%C3%B3n)
 
 **Nombre de la página:** ONE SMART CITY
 
@@ -121,7 +121,7 @@ municipal, donde el gobierno puede mostrar propuestas oficiales y la comunidad p
 ciudadanas y, finalmente, un apartado de transparencia que incluye participación presupuestaria, gasto público 
 georreferenciado y monitoreo de compromisos oficiales.
 
-**Página:** [https://altec.lat/proyectos/one-smart-city/](One Smart City)
+**Página:** [One Smart City](https://altec.lat/proyectos/one-smart-city/)
 
 
 **Nombre del proyecto:** Geoportal de Mérida.
@@ -130,7 +130,7 @@ Se trata de un portal geográfico que utiliza mapas, imágenes y coordenadas par
 rutas optimas. Puedes crear una cuenta y establecer rutas desde diferentes puntos y tus búsquedas quedan registradas. 
 "Facilita conocer, ubicar y analizar al Municipio de Mérida para fines tanto personales como profesionales."
 
-**Página:**[https://geoportal.merida.gob.mx/](Geoportal Mérida)
+**Página:**[Geoportal Mperida](https://geoportal.merida.gob.mx/)
 
 
 
@@ -140,7 +140,7 @@ La Fundación Ciudadano Inteligente trabaja desde Chile para reducir las asimetr
 "Trabajamos para trasladar poder desde los pocos hacia los muchos". Ciudadano Inteligente se especializa en el 
 desarrollo de aplicaciones cívicas web.
 
-**Página:** [www.ciudadaniai.org](Ciudadano Inteligente)
+**Página:** [Ciudadano Inteligente](www.ciudadaniai.org)
 
 
 **Nombre del proyecto:** El Instituto de Acceso a la Información Pública para el Estado de Guanajuato (IACIP) 
