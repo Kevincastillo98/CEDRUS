@@ -151,6 +151,9 @@ de Guanajuato y garantizar a la sociedad guanajuatense su derecho a saber.
 **Página:**[IACIP](https://iacip-gto.org.mx/wn/)
 
 
+## Proyectos cívicos 
 
+**Nombre del proyecto:** [Cívica digital](https://civica.digital/)
+**Nombre del proyecto:** [Data Cívica](https://datacivica.org/)
 
 
